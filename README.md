@@ -13,7 +13,7 @@ This project was a great opportunity for me to continue building my development 
 
 ## Usage
 
-[Kevin Buttimer](https://kevinb04.github.io/kevin-buttimer-porfolio/)
+[Kevin Buttimer](https://kevinb04.github.io/new-portfolio/)
 
 You have the opportunity to view multiple pages on my page. You can navigate through my site using the "About", "Film Credits", "Movies", and "Contact" tabs.
 
